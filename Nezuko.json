@@ -31,7 +31,7 @@
       "#FFFFFF"
     ],
     "INTERACTIVE_NORMAL": [
-      "#d160cf",
+      "#ed0909",
       "#FFFFFF"
     ],
     "INTERACTIVE_HOVER": [
@@ -39,7 +39,7 @@
       "#FFFFFF"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#d160cf",
+      "#723d7a",
       "#FFFFFF"
     ],
     "INTERACTIVE_MUTED": [
@@ -51,15 +51,15 @@
       "#FFFFFF"
     ],
     "BACKGROUND_SECONDARY": [
-      "#171717",
+      "#d10ceb",
       "#FFFFFF"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#171717",
+      "#efbcf7",
       "#FFFFFF"
     ],
     "BACKGROUND_TERTIARY": [
-      "#171717",
+      "#d10ceb",
       "#FFFFFF"
     ],
     "BACKGROUND_ACCENT": [
@@ -67,23 +67,23 @@
       "#FFFFFF"
     ],
     "BACKGROUND_FLOATING": [
-      "#171717",
+      "#efbcf7",
       "#FFFFFF"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#171717",
+      "#d10ceb",
       "#FFFFFF"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#171717",
+      "#d10ceb",
       "#FFFFFF"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#171717",
+      "#d10ceb",
       "#FFFFFF"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "#171717",
+      "#d10ceb",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
@@ -91,11 +91,11 @@
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#171717",
+      "#d10ceb",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#171717",
+      "#d10ceb",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
@@ -136,25 +136,25 @@
     ]
   },
   "colours": {
-    "PRIMARY_DARK": "#171717",
+    "PRIMARY_DARK": "#d10ceb",
     "PRIMARY_DARK_100": "#ffffff",
     "PRIMARY_DARK_200": "#ffffff",
     "PRIMARY_DARK_300": "#B6B6B6",
     "PRIMARY_DARK_360": "#C8C8C8",
     "PRIMARY_DARK_400": "#C8C8C8",
     "PRIMARY_DARK_500": "#0c0c0c",
-    "PRIMARY_DARK_600": "#171717",
+    "PRIMARY_DARK_600": "#d10ceb",
     "PRIMARY_DARK_630": "#1f1f1f",
-    "PRIMARY_DARK_700": "#171717",
-    "PRIMARY_DARK_800": "#171717",
-    "PRIMARY_DARK_900": "#171717"
+    "PRIMARY_DARK_700": "#d10ceb",
+    "PRIMARY_DARK_800": "#d10ceb",
+    "PRIMARY_DARK_900": "#d10ceb"
   },
   "unsafe_colors": {
-    "CHAT_GREY": "#171717"
+    "CHAT_GREY": "#d10ceb"
   },
   "background": {
     "blur": 0.95,
     "url": "https://cdn.discordapp.com/attachments/950979289531162666/1031954734594134177/IMG_2079.jpg",
-    "alpha": 0.9
+    "alpha": 0.55
   }
 }
