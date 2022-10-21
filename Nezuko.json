@@ -11,7 +11,7 @@
   ],
   "theme_color_map": {
     "KEYBOARD": [
-      "#d10ceb",
+      "#0a0408",
       "#FFFFFF"
     ],
     "HEADER_PRIMARY": [
@@ -31,7 +31,7 @@
       "#FFFFFF"
     ],
     "INTERACTIVE_NORMAL": [
-      "#ed0909",
+      "#d160cf",
       "#FFFFFF"
     ],
     "INTERACTIVE_HOVER": [
@@ -39,7 +39,7 @@
       "#FFFFFF"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#723d7a",
+      "#d160cf",
       "#FFFFFF"
     ],
     "INTERACTIVE_MUTED": [
@@ -51,15 +51,15 @@
       "#FFFFFF"
     ],
     "BACKGROUND_SECONDARY": [
-      "#bf0bb9",
+      "#171717",
       "#FFFFFF"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#efbcf7",
+      "#171717",
       "#FFFFFF"
     ],
     "BACKGROUND_TERTIARY": [
-      "#d10ceb",
+      "#171717",
       "#FFFFFF"
     ],
     "BACKGROUND_ACCENT": [
@@ -67,23 +67,23 @@
       "#FFFFFF"
     ],
     "BACKGROUND_FLOATING": [
-      "#efbcf7",
+      "#171717",
       "#FFFFFF"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#d10ceb",
+      "#171717",
       "#FFFFFF"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#d10ceb",
+      "#171717",
       "#FFFFFF"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#d10ceb",
+      "#171717",
       "#FFFFFF"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "#d10ceb",
+      "#171717",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
@@ -91,11 +91,11 @@
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#d10ceb",
+      "#171717",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#d10ceb",
+      "#171717",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
@@ -136,25 +136,25 @@
     ]
   },
   "colours": {
-    "PRIMARY_DARK": "#d10ceb",
+    "PRIMARY_DARK": "#171717",
     "PRIMARY_DARK_100": "#ffffff",
     "PRIMARY_DARK_200": "#ffffff",
     "PRIMARY_DARK_300": "#B6B6B6",
     "PRIMARY_DARK_360": "#C8C8C8",
     "PRIMARY_DARK_400": "#C8C8C8",
     "PRIMARY_DARK_500": "#0c0c0c",
-    "PRIMARY_DARK_600": "#bf0bb9",
+    "PRIMARY_DARK_600": "#171717",
     "PRIMARY_DARK_630": "#1f1f1f",
-    "PRIMARY_DARK_700": "#d10ceb",
-    "PRIMARY_DARK_800": "#d10ceb",
-    "PRIMARY_DARK_900": "#d10ceb"
+    "PRIMARY_DARK_700": "#171717",
+    "PRIMARY_DARK_800": "#171717",
+    "PRIMARY_DARK_900": "#171717"
   },
   "unsafe_colors": {
-    "CHAT_GREY": "#bf0bb9"
+    "CHAT_GREY": "#171717"
   },
   "background": {
-    "blur": 0.95,
+    "blur": 2.5,
     "url": "https://cdn.discordapp.com/attachments/950979289531162666/1031954734594134177/IMG_2079.jpg",
-    "alpha": 0.55
+    "alpha": 0.50
   }
 }
