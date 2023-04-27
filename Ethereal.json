@@ -1,6 +1,6 @@
 {
   "name": "Ethereal",
-  "version": "1.0",
+  "version": "2.0",
   "description": "Contrasting elegance in minimalistic design.",
   "color": "#000000",
   "authors": [
@@ -15,7 +15,7 @@
       "#FFFFFF"
     ],
     "HEADER_PRIMARY": [
-      "#1200ff",
+      "#AEC6CF",
       "#FFFFFF"
     ],
     "HEADER_SECONDARY": [
@@ -31,15 +31,15 @@
       "#FFFFFF"
     ],
     "INTERACTIVE_NORMAL": [
-      "#1200ff",
+      "#AEC6CF",
       "#FFFFFF"
     ],
     "INTERACTIVE_HOVER": [
-      "#1200ff",
+      "#AEC6CF",
       "#FFFFFF"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#1200ff",
+      "#AEC6CF",
       "#FFFFFF"
     ],
     "INTERACTIVE_MUTED": [
@@ -127,18 +127,18 @@
       "#FFFFFF"
     ],
     "TEXT_LINK": [
-      "#1200ff",
-      "#1200ff"
+      "#AEC6CF",
+      "#AEC6CF"
     ],
     "CHANNEL_ICON": [
-      "#1200ff",
-      "#1200ff"
+      "#AEC6CF",
+      "#AEC6CF"
     ]
   },
   "colours": {
     "PRIMARY_DARK": "#FFFFFF",
-    "PRIMARY_DARK_100": "#1200ff",
-    "PRIMARY_DARK_200": "#1200ff",
+    "PRIMARY_DARK_100": "#AEC6CF",
+    "PRIMARY_DARK_200": "#AEC6CF",
     "PRIMARY_DARK_300": "#000000",
     "PRIMARY_DARK_360": "#FFFFFF",
     "PRIMARY_DARK_400": "#000000",
