@@ -1,0 +1,160 @@
+{
+  "name": "Ethereal",
+  "version": "1.0",
+  "description": "Contrasting elegance in minimalistic design.",
+  "color": "#000000",
+  "authors": [
+    {
+      "name": "Madhav#6969",
+      "id": "757530324686340197"
+    }
+  ],
+  "theme_color_map": {
+    "KEYBOARD": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "HEADER_PRIMARY": [
+      "#1200ff",
+      "#FFFFFF"
+    ],
+    "HEADER_SECONDARY": [
+      "#FFFFFF",
+      "#FFFFFF"
+    ],
+    "TEXT_NORMAL": [
+      "#FFFFFF",
+      "#FFFFFF"
+    ],
+    "TEXT_MUTED": [
+      "#B6B6B6",
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#1200ff",
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#1200ff",
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#1200ff",
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#747474",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#0a0a0a",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#FFFFFF",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#292929",
+      "#FFFFFF"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent",
+      "#FFFFFF"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "rgba(0, 0, 0, 0.1)",
+      "#FFFFFF"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "transparent",
+      "#FFFFFF"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#006173",
+      "#FFFFFF"
+    ],
+    "TEXT_LINK": [
+      "#1200ff",
+      "#1200ff"
+    ],
+    "CHANNEL_ICON": [
+      "#1200ff",
+      "#1200ff"
+    ]
+  },
+  "colours": {
+    "PRIMARY_DARK": "#FFFFFF",
+    "PRIMARY_DARK_100": "#1200ff",
+    "PRIMARY_DARK_200": "#1200ff",
+    "PRIMARY_DARK_300": "#000000",
+    "PRIMARY_DARK_360": "#FFFFFF",
+    "PRIMARY_DARK_400": "#000000",
+    "PRIMARY_DARK_500": "#000000",
+    "PRIMARY_DARK_600": "#000000",
+    "PRIMARY_DARK_630": "#000000",
+    "PRIMARY_DARK_700": "#000000",
+    "PRIMARY_DARK_800": "#000000",
+    "PRIMARY_DARK_900": "#000000"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#000000"
+  },
+  "background": {
+    "blur": 0.1,
+    "url": "https://cdn.discordapp.com/attachments/949230769824481291/1101070678830108712/IMG_3292.jpg",
+    "alpha": 0.3
+  }
+}
