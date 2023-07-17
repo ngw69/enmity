@@ -1,0 +1,159 @@
+{
+  "name": "Science_Mommy",
+  "description": "Science Mommy Reigns Supreme",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "Madhav",
+      "id": "757530324686340197"
+    }
+  ],
+  "theme_color_map": {
+    "HEADER_PRIMARY": [
+      "#ffd3b4",
+      "#060607"
+    ],
+    "HEADER_SECONDARY": [
+      "#fefffe",
+      "#4f5660"
+    ],
+    "TEXT_NORMAL": [
+      "#feffff",
+      "#2e3338"
+    ],
+    "TEXT_MUTED": [
+      "#cfaa91",
+      "#747f8d"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#ffffff",
+      "#4f5660"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#dcddde",
+      "#2e3338"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#cfaa91",
+      "#060607"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#cbc0b4",
+      "#c7ccd1"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#4d5557",
+      "#ffffff"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#4d5557",
+      "#f2f3f5"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#4d5557",
+      "#ebedef"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#243636",
+      "#e3e5e8"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#cfaa91",
+      "#747f8d"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#4d5557",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#4d5557",
+      "#f8f9f9"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#4d5557",
+      "#ffffff"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#4d5557",
+      "#ffffff"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "hsla(214, 9.9%, 50.4%, 0.08)"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(255, 255, 255, 0.03)",
+      "hsla(214, 9.9%, 50.4%, 0.16)"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(255, 255, 255, 0.04)",
+      "hsla(214, 9.9%, 50.4%, 0.24)"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "transparent",
+      "hsla(240, 7.7%, 2.5%, 0.08)"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#2a1858",
+      "hsla(217, 7.6%, 33.5%, 0.3)"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent",
+      "hsla(0, 0%, 0%, 0)"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#2a1858",
+      "#cccccc"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "rgba(0, 0, 0, 0.1)",
+      "#f2f2f2"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#111111",
+      "#ebedef"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#d9d9db",
+      "#a69230"
+    ],
+    "TEXT_LINK": [
+      "#ebe1d5",
+      "#000000"
+    ],
+    "KEYBOARD": [
+      "#434949",
+      "#FFFFFF"
+    ]
+  },
+  "colours": {
+    "PRIMARY_DARK": "#a69230",
+    "PRIMARY_DARK_100": "#FFFFFF",
+    "PRIMARY_DARK_200": "#FFFFFF",
+    "PRIMARY_DARK_300": "#fefffe",
+    "PRIMARY_DARK_360": "#c2bfba",
+    "PRIMARY_DARK_400": "#c9a48c",
+    "PRIMARY_DARK_500": "#be9f82",
+    "PRIMARY_DARK_600": "#768081",
+    "PRIMARY_DARK_630": "#434949",
+    "PRIMARY_DARK_700": "#4d5557",
+    "PRIMARY_DARK_800": "#434949",
+    "BRAND_NEW": "#cfaa91",
+    "STATUS_RED": "#768081",
+    "STATUS_GREEN_600": "#87a2de",
+    "STATUS_YELLOW": "#768081"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#768081"
+  },
+  "background": {
+    "blur": 0,
+    "url": "https://media.discordapp.net/attachments/949230769824481291/1105537724519293078/image0.jpg",
+    "alpha": 1
+  },
+  "color": "#768081"
+}
