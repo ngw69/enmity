@@ -1,6 +1,6 @@
 {
   "name": "Fallout4",
-  "version": "1.0",
+  "version": "1.1",
   "description": "Orignal Author For BetterDiscord Theme: Bates#7075",
   "color": "#4aef97",
   "authors": [
@@ -83,11 +83,11 @@
          "#F8F9F9"
       ],
       "BACKGROUND_MOBILE_SECONDARY": [
-         "#111111",
+         "#000000",
          "#FFFFFF"
       ],
       "BACKGROUND_NESTED_FLOATING": [
-         "#111111",
+         "#000000",
          "#FFFFFF"
       ],
       "BACKGROUND_MESSAGE_HOVER": [
@@ -143,7 +143,7 @@
       "PRIMARY_DARK_360": "#C8C8C8",
       "PRIMARY_DARK_400": "#585858",
       "PRIMARY_DARK_500": "#292929",
-      "PRIMARY_DARK_600": "#111111",
+      "PRIMARY_DARK_600": "#000000",
       "PRIMARY_DARK_630": "#1F1F1F",
       "PRIMARY_DARK_700": "#090909",
       "PRIMARY_DARK_800": "#090909",
