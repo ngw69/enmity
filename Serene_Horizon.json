@@ -1,7 +1,7 @@
 {
   "name": "Serene_Horizon",
   "description": "An epic scenery",
-  "version": "1.0",
+  "version": "1.1",
   "authors": [
     {
       "name": "Madhav",
@@ -151,7 +151,7 @@
   },
   "background": {
     "blur": 0.1,
-    "url": "https://cdn.discordapp.com/attachments/949230769824481291/1100818236376883260/E2AA26F1-A992-4385-9913-B6AEC9C6DBCE.jpg",
+    "url": "https://cdn.discordapp.com/attachments/949230769824481291/1100818236376883260/E2AA26F1-A992-4385-9913-B6AEC9C6DBCE.jpg?ex=65e8975f&is=65d6225f&hm=aaaaca46642249bc3da235381b2c71f68d17b53a24ad67a7fad0cb193c7fb348&",
     "alpha": 0.4
   }
 }
