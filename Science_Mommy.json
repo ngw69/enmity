@@ -1,7 +1,7 @@
 {
   "name": "Science_Mommy",
   "description": "Science Mommy Reigns Supreme",
-  "version": "1.0",
+  "version": "1.1",
   "authors": [
     {
       "name": "Madhav",
@@ -152,7 +152,7 @@
   },
   "background": {
     "blur": 0,
-    "url": "https://media.discordapp.net/attachments/949230769824481291/1105537724519293078/image0.jpg",
+    "url": "https://cdn.discordapp.com/attachments/949230769824481291/1105537724519293078/image0.jpg?ex=65f9c2bd&is=65e74dbd&hm=1cbeee1906bc5b96b358e290280f0bcfd624c27de3ba89d95bdb4d6ceade1ff4&",
     "alpha": 1
   },
   "color": "#768081"
