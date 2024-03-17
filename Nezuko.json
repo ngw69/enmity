@@ -1,7 +1,7 @@
 
 {
   "name": "Nezuko",
-  "version": "1.0",
+  "version": "1.1",
   "description": "Nezuko From DemonSlayer",
   "authors": [
     {
@@ -154,7 +154,7 @@
   },
   "background": {
     "blur": 2.5,
-    "url": "https://cdn.discordapp.com/attachments/950979289531162666/1031954734594134177/IMG_2079.jpg",
+    "url": "https://cdn.discordapp.com/attachments/950979289531162666/1031954734594134177/IMG_2079.jpg?ex=6602ec3d&is=65f0773d&hm=f00051a63438e600560042b8a1505e107f6e5043fc3c2b4f7c3e814571d80d45&",
     "alpha": 0.50
   }
 }
