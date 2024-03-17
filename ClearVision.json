@@ -1,6 +1,6 @@
 {
   "name": "ClearVision",
-  "version": "1.0",
+  "version": "1.1",
   "description": "Credits to Zerthox for the better discord theme",
   "authors": [
     {
@@ -153,7 +153,7 @@
   },
   "background": {
     "blur": 0.5,
-    "url": "https://cdn.discordapp.com/attachments/758968292689051668/1031542384544186398/IMG_2066.jpg",
+    "url": "https://cdn.discordapp.com/attachments/758968292689051668/1031542384544186398/IMG_2066.jpg?ex=66016c35&is=65eef735&hm=4e6bdb6d5fde478e7133ad77057cbb254f19f32a4ca98f303da9e97041214def&",
     "alpha": 0.6
   }
 }
