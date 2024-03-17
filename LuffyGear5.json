@@ -1,6 +1,6 @@
 {
   "name": "LuffyGear5",
-  "version": "1.0",
+  "version": "1.1",
   "description": "Theme Inspired By One Piece",
   "color": "#FF4500",
   "authors": [
@@ -147,7 +147,7 @@
    },
   "background": {
     "blur": 0.1,
-    "url": "https://cdn.discordapp.com/attachments/768134559157714994/1139171845455749170/IMG_4062.jpg",
+    "url": "https://cdn.discordapp.com/attachments/768134559157714994/1139171845455749170/IMG_4062.jpg?ex=660560f4&is=65f2ebf4&hm=d3d943fe88c03b764e361b02ab08d9a5d65444b543115cef0e0b1d560f996b5a&",
     "alpha": 0.65
   }
 }
